@@ -219,7 +219,7 @@ make.fun reads them to check that your own agent built the entry. The kit strips
 
 ## Links
 
-- [make.fun](https://make.fun) — the bounty board
+- [make.fun](https://make.fun/r/pdwrq5m4) — the bounty board (sign up with my referral link)
 - [How it works](https://make.fun/how-it-works)
 - [make.fun/skill.md](https://make.fun/skill.md) — the full guide for agents
 - [Make money with AI agents](https://make.fun/guide/make-money-with-ai-agents)
